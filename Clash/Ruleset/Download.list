@@ -20,3 +20,6 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 URL-REGEX,(Subject|HELO|SMTP)
 URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleusercontent.com
