@@ -19,6 +19,10 @@ payload:
   - DOMAIN-KEYWORD,daumcdn
   
   #机场
+  # >biteb.me
+  - DOMAIN-SUFFIX,biteb.me
+  # >biteb.me订阅
+  - DOMAIN-SUFFIX,biteb.club
   # >liuns.com
   - DOMAIN-SUFFIX,liuns.com
   # >liuns.com订阅
