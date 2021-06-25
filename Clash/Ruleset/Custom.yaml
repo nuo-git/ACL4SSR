@@ -1,0 +1,57 @@
+payload:
+  # RULE-SET,costom,🔰 节点选择
+  # > PROXY-SELECT
+  #speed-test,已单独维护speedtest规则文件
+  #- DOMAIN-KEYWORD,fast.com
+  #- DOMAIN-KEYWORD,speedtest.net
+  
+  #google search
+  - DOMAIN-KEYWORD,www.google.
+  
+  #outlook
+  - DOMAIN-SUFFIX,outlook.live.com
+  
+  #ACL4SSR
+  - DOMAIN-SUFFIX,suo.yt
+  - DOMAIN-SUFFIX,subcon.dlj.tf
+  
+  #PotPlayer
+  - DOMAIN-KEYWORD,daumcdn
+  
+  #机场
+  # >liuns.com
+  - DOMAIN-SUFFIX,liuns.com
+  # >liuns.com订阅
+  - DOMAIN-SUFFIX,liyunss.com
+  # >蚁链
+  - DOMAIN-SUFFIX,antlink.cc
+  # >pjj
+  - DOMAIN-KEYWORD,pjj
+  - DOMAIN-SUFFIX,pjj.life
+  - DOMAIN-SUFFIX,pjj.one
+  # >Paredisi
+  - DOMAIN-SUFFIX,paradisi.ml
+  # >Symerit 世长网络
+  - DOMAIN-SUFFIX,symerit.org
+  # > 云网互联
+  - DOMAIN-SUFFIX,www.cni.lol
+  - DOMAIN-SUFFIX,v2ky.com
+  # > McatCloud
+  - DOMAIN-SUFFIX,mclou.ga
+  - DOMAIN-SUFFIX,foly.xyz
+  # > 云蓝加速
+  - DOMAIN-SUFFIX,yun.blue
+  - DOMAIN-KEYWORD,artherstore
+  # > Scrssr
+  - DOMAIN-KEYWORD,scrssr
+  - DOMAIN-SUFFIX,sub.syhwdz.top
+  # > 网抑云
+  - DOMAIN-SUFFIX,netyi.cloud
+  # > 光速云
+  - DOMAIN-SUFFIX,gs1024.com
+  # > P++ 加速
+  - DOMAIN-SUFFIX,pjj.one
+  # > 饭饭云
+  - DOMAIN-SUFFIX,fanfanyun.xyz
+  # > 猫云
+  - DOMAIN-SUFFIX,catcloud.cc
